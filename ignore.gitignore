@@ -1,0 +1,52 @@
+# ===================================
+# Python
+# ===================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+# Entornos virtuales
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Archivos de configuración de entorno
+*.env
+
+# ===================================
+# Archivos generados
+# ===================================
+# Excel / CSV
+*.xlsx
+*.xls
+*.csv
+
+# Logs
+*.log
+
+# Backups
+*.bak
+*~ 
+
+# ===================================
+# Carpetas del proyecto que no deben ir al repo
+# ===================================
+Facturas_Ordenadas/
+Agregar paquete de facturas/
+
+# ===================================
+# Sistema operativo y editores
+# ===================================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+.history/
