@@ -1,138 +1,114 @@
-import pandas as pd
-from datetime import datetime
 import os
-import openpyxl
-from openpyxl.styles import Font, Alignment, Border, Side, PatternFill
-from openpyxl.styles import numbers
+import pandas as pd
+from openpyxl import load_workbook
+from openpyxl.styles import Font, PatternFill, Border, Side, Alignment
+from openpyxl.utils import get_column_letter
 
-# ================================
-# 1. Rutas
-# ================================
-RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))  # Carpeta Facturas
-CSV_ENTRADA = os.path.join(RAIZ, "2FCIT", "ExcelRaw.csv")  # <-- Cambiado a ExcelRaw.csv
-CARPETA_SALIDA = os.path.join(RAIZ, "3EXCEL")
-EXCEL_SALIDA = os.path.join(CARPETA_SALIDA, "Facturas_Organizadas.xlsx")
+# Rutas
+RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+CSV_ENTRADA = os.path.join(RAIZ, "2FCIT", "ExcelRaw.csv")
+CARPETA_SALIDA = os.path.join(RAIZ)
+EXCEL_SALIDA = os.path.join(RAIZ, "Facturas_Organizadas.xlsx")
 
-os.makedirs(CARPETA_SALIDA, exist_ok=True)
+# ==========================
+# 1. Cargar y procesar datos
+# ==========================
+df = pd.read_csv(CSV_ENTRADA)
 
-# ================================
-# 2. Leer ExcelRaw.csv
-# ================================
-df = pd.read_csv(CSV_ENTRADA, encoding="utf-8")
+# Normalizar nombre de columnas (por si vienen con espacios)
+df.columns = [c.strip().upper() for c in df.columns]
 
-# ================================
-# 3. Normalizar columnas
-# ================================
-df.columns = [col.upper() for col in df.columns]
+# Filtrar facturas: excluir "NO DEDUCIBLES"
+if "CATEGORIA" in df.columns:
+    df = df[df["CATEGORIA"].str.upper() != "NO DEDUCIBLES"]
 
-# Convertir FECHA a datetime
-if "FECHA" in df.columns:
-    df["FECHA"] = pd.to_datetime(df["FECHA"], dayfirst=True, errors="coerce")
+# Convertir fechas y dar formato DD-MM-YYYY
+df["FECHA"] = pd.to_datetime(df["FECHA"], errors="coerce").dt.strftime("%d-%m-%Y")
 
-# ================================
-# 4. Ordenar por FECHA y CONCEPTO
-# ================================
-if "CONCEPTO" not in df.columns:
-    df["CONCEPTO"] = df.get("NOMBREEMISOR", "")
+# Ordenar por fecha y luego por CATEGORIA (si existe)
+if "CATEGORIA" in df.columns:
+    df = df.sort_values(by=["FECHA", "CATEGORIA"])
+else:
+    df = df.sort_values(by=["FECHA"])
 
-df = df.sort_values(by=["FECHA", "CONCEPTO"]).reset_index(drop=True)
+# ==========================
+# 2. Agrupar y subtotales
+# ==========================
+columnas_num = ["IMPORTE", "IVA", "TOTAL"]
+filas_finales = []
 
-# ================================
-# 5. Crear DataFrame con subtotales por CATEGORIA
-# ================================
-final_rows = []
+if "CATEGORIA" in df.columns:
+    # Ordenar categorías alfabéticamente
+    for categoria, grupo in sorted(df.groupby("CATEGORIA"), key=lambda x: x[0]):
+        filas_finales.extend(grupo.drop(columns=["CATEGORIA"]).to_dict("records"))
+        subtotal = {col: grupo[col].sum() for col in columnas_num}
+        subtotal.update({col: "" for col in df.columns if col not in columnas_num and col != "CATEGORIA"})
+        subtotal["CONCEPTO"] = f"SUBTOTAL {categoria}"
+        filas_finales.append(subtotal)
+        filas_finales.append({col: "" for col in df.columns if col != "CATEGORIA"})
+else:
+    filas_finales.extend(df.to_dict("records"))
 
-for categoria, group in df.groupby("CATEGORIA"):
-    for row in group.to_dict("records"):
-        final_rows.append(row)
+df_final = pd.DataFrame(filas_finales)
 
-    subtotal = {col: "" for col in df.columns}
-    subtotal["CONCEPTO"] = f"SUBTOTAL {categoria}"
-    if "IMPORTE" in df.columns:
-        subtotal["IMPORTE"] = group["IMPORTE"].sum()
-    if "IVA" in df.columns:
-        subtotal["IVA"] = group["IVA"].sum()
-    if "TOTAL" in df.columns:
-        subtotal["TOTAL"] = group["TOTAL"].sum()
-
-    final_rows.append(subtotal)
-    final_rows.append({})  # fila en blanco
-
-df_final = pd.DataFrame(final_rows)
-
-# ================================
-# 6. Formato FECHA seguro
-# ================================
-if "FECHA" in df_final.columns:
-    df_final["FECHA"] = pd.to_datetime(df_final["FECHA"], errors="coerce")
-    df_final["FECHA"] = df_final["FECHA"].apply(
-        lambda x: x.strftime("%d-%m-%Y") if pd.notna(x) else ""
-    )
-
-# ================================
-# 7. Eliminar columna CATEGORIA (sin afectar subtotales)
-# ================================
-if "CATEGORIA" in df_final.columns:
-    df_final = df_final.drop(columns=["CATEGORIA"])
-
-# ================================
-# 8. Exportar a Excel sin formato
-# ================================
+# Guardar en Excel sin formato
 df_final.to_excel(EXCEL_SALIDA, index=False)
 
-# ================================
-# 9. Dar formato con openpyxl
-# ================================
-wb = openpyxl.load_workbook(EXCEL_SALIDA)
+# ==========================
+# 3. Dar formato con openpyxl
+# ==========================
+wb = load_workbook(EXCEL_SALIDA)
 ws = wb.active
 
-# ---- Estilos ----
+# Estilos
+header_fill = PatternFill("solid", fgColor="4F81BD")  # azul
 header_font = Font(bold=True, color="FFFFFF")
-header_fill = PatternFill(start_color="4F81BD", end_color="4F81BD", fill_type="solid")
-subtotal_font = Font(bold=True, color="1F4E78")
-subtotal_fill = PatternFill(start_color="D9E1F2", end_color="D9E1F2", fill_type="solid")
+subtotal_fill = PatternFill("solid", fgColor="D9D9D9")
+subtotal_font = Font(bold=True)
+
 thin_border = Border(
-    left=Side(style="thin", color="AAAAAA"),
-    right=Side(style="thin", color="AAAAAA"),
-    top=Side(style="thin", color="AAAAAA"),
-    bottom=Side(style="thin", color="AAAAAA"),
+    left=Side(style="thin"),
+    right=Side(style="thin"),
+    top=Side(style="thin"),
+    bottom=Side(style="thin"),
 )
 
-# ---- Encabezados ----
-for cell in ws[1]:
-    cell.font = header_font
+# Encabezados
+for col in range(1, ws.max_column + 1):
+    cell = ws.cell(row=1, column=col)
     cell.fill = header_fill
-    cell.alignment = Alignment(horizontal="center", vertical="center")
+    cell.font = header_font
     cell.border = thin_border
 
-# ---- Celdas ----
-for row in ws.iter_rows(min_row=2):
-    for cell in row:
-        cell.alignment = Alignment(horizontal="center", vertical="center")
+# Contenido
+for row in range(2, ws.max_row + 1):
+    concepto = str(ws.cell(row=row, column=5).value).upper() if ws.cell(row=row, column=5).value else ""
+    for col in range(1, ws.max_column + 1):
+        cell = ws.cell(row=row, column=col)
         cell.border = thin_border
-
-        # Columnas numéricas con formato 2 decimales
-        if cell.column_letter in ["F", "G", "H"]:  # IMPORTE, IVA, TOTAL
-            cell.number_format = numbers.FORMAT_NUMBER_00
-            cell.alignment = Alignment(horizontal="right", vertical="center")
-
+        # Alinear números a la derecha y dar formato decimal
+        if col >= ws.max_column - 2:  # columnas de números (IMPORTE, IVA, TOTAL)
+            if isinstance(cell.value, (int, float)):
+                cell.number_format = "#,##0.00"
+                cell.alignment = Alignment(horizontal="right")
         # Subtotales
-        if cell.column_letter == "E" and cell.value is not None:
-            if str(cell.value).startswith("SUBTOTAL"):
-                for c in ws[cell.row]:
-                    c.font = subtotal_font
-                    c.fill = subtotal_fill
-                    c.border = thin_border
+        if concepto.startswith("SUBTOTAL"):
+            cell.fill = subtotal_fill
+            cell.font = subtotal_font
 
-# ---- Ajustar ancho de columnas automáticamente
+# Ajustar ancho de columnas automáticamente
 for col in ws.columns:
     max_length = 0
-    col_letter = col[0].column_letter
+    column = col[0].column
+    column_letter = get_column_letter(column)
     for cell in col:
-        if cell.value:
-            max_length = max(max_length, len(str(cell.value)))
-    ws.column_dimensions[col_letter].width = max_length + 2
+        try:
+            if cell.value:
+                max_length = max(max_length, len(str(cell.value)))
+        except:
+            pass
+    ws.column_dimensions[column_letter].width = max_length + 2
 
-# ---- Guardar Excel final
+# Guardar
 wb.save(EXCEL_SALIDA)
-print(f"Facturas_Organizadas.xlsx creado con éxito en: {EXCEL_SALIDA}")
+print(" Archivo generado:", EXCEL_SALIDA)
