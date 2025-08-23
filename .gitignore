@@ -50,3 +50,8 @@ Desktop.ini
 # VSCode
 .vscode/
 .history/
+
+# ===================================
+# Archivos de texto
+# ===================================
+*.txt
