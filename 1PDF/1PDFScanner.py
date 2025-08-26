@@ -1,49 +1,53 @@
-# 1PDFScanner.py (ubicado en 1PDF)
 import os
-from PyPDF2 import PdfReader
+import re
+import shutil
 
-def run_pdf_scanner():
-    # Carpeta donde se encuentran los PDFs
-    carpeta_base = os.path.join(os.path.dirname(os.path.dirname(__file__)), "Agregar paquete de facturas")
+# ============================
+# Definir rutas
+# ============================
+RAIZ = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+carpeta_facturas = os.path.join(RAIZ, "AgregarFacturas")
+carpeta_ignorados = os.path.join(carpeta_facturas, "IGNORADOS")
 
-    # Archivo de salida en la carpeta raíz
-    archivo_salida = os.path.join(os.path.dirname(os.path.dirname(__file__)), "PDFraw.txt")
+# ============================
+# Crear carpeta IGNORADOS si no existe
+# ============================
+if not os.path.exists(carpeta_ignorados):
+    os.makedirs(carpeta_ignorados)
+    print(f"Carpeta creada: {carpeta_ignorados}")
+else:
+    print(f"La carpeta ya existe: {carpeta_ignorados}")
 
-    pdfs_procesados = 0
-    pdfs_ignorados = 0
+# ============================
+# Expresión regular para UUID
+# ============================
+uuid_regex = re.compile(r"[a-fA-F0-9]{8}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{4}-[a-fA-F0-9]{12}")
 
-    # Listado de PDFs válidos (excluyendo NO DEDUCIBLES)
-    pdf_a_procesar = [
-        os.path.join(root, file)
-        for root, dirs, files in os.walk(carpeta_base)
-        if "NO DEDUCIBLES" not in root.upper()
-        for file in files
-        if file.lower().endswith(".pdf")
-    ]
-
-    total_pdfs = len(pdf_a_procesar)
-
-    # Abrimos el archivo de salida
-    with open(archivo_salida, "w", encoding="utf-8") as f_salida:
-        for i, ruta_pdf in enumerate(pdf_a_procesar, start=1):
+# ============================
+# Iterar sobre archivos PDF
+# ============================
+for root, dirs, files in os.walk(carpeta_facturas):
+    for file in files:
+        if file.lower().endswith(".pdf"):
+            ruta_completa = os.path.join(root, file)
             try:
-                reader = PdfReader(ruta_pdf)
-                texto = "\n".join(page.extract_text() or "" for page in reader.pages)
-
-                # Separador por factura
-                f_salida.write(f"--- Factura: {os.path.basename(ruta_pdf)} ---\n")
-                f_salida.write(texto + "\n\n")
-
-                pdfs_procesados += 1
+                # Verificar si el nombre contiene un UUID
+                if not uuid_regex.search(file):
+                    # Mover archivo a carpeta IGNORADOS
+                    destino = os.path.join(carpeta_ignorados, file)
+                    
+                    # Evitar sobrescribir archivos con mismo nombre
+                    if os.path.exists(destino):
+                        base, ext = os.path.splitext(file)
+                        contador = 1
+                        while os.path.exists(destino):
+                            destino = os.path.join(carpeta_ignorados, f"{base}_{contador}{ext}")
+                            contador += 1
+                    
+                    shutil.move(ruta_completa, destino)
+                    print(f"Archivo movido a IGNORADOS: {file}")
+                else:
+                    # Archivo válido, no hacer nada
+                    print(f"Archivo válido, se mantiene: {file}")
             except Exception as e:
-                print(f" Error leyendo {ruta_pdf}: {e}")
-                pdfs_ignorados += 1
-
-    # Resumen final
-    print(" Extracción completada.")
-    print(f"PDFs encontrados: {total_pdfs}")
-    print(f"PDFs procesados: {pdfs_procesados}")
-    print(f"PDFs ignorados: {pdfs_ignorados}")
-
-if __name__ == "__main__":
-    run_pdf_scanner()
+                print(f"No se pudo procesar {file}: {e}")

@@ -1,0 +1,3453 @@
+[
+    {
+        "descripcion": "CASAS,",
+        "clave_producto": "80131500",
+        "descripcion_producto": "ALQUILER  Y  ARRENDAMIENTO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ARRENDAMIENTO DE RESIDENCIAS",
+        "clave_producto": "80131501",
+        "descripcion_producto": "",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ARRENDAMIENTO  DE    INSTALACIONES",
+        "clave_producto": "80131502",
+        "descripcion_producto": "",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ORGANIZACIONES,  ASOCIACIONES  O",
+        "clave_producto": "70151503",
+        "descripcion_producto": "ORGANIZACIONES,",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE NEGOCIOS",
+        "clave_producto": "94101500",
+        "descripcion_producto": "ASOCIACIONES DE NEGOCIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE LA INDUSTRIA",
+        "clave_producto": "94101501",
+        "descripcion_producto": "ASOCIACIONES DE LA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES REGULADORAS",
+        "clave_producto": "94101502",
+        "descripcion_producto": "ASOCIACIONES REGULADORAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES EMPRESARIALES",
+        "clave_producto": "94101503",
+        "descripcion_producto": "ASOCIACIONES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES EMPRESARIALES",
+        "clave_producto": "94101504",
+        "descripcion_producto": "ASOCIACIONES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE EMPLEADORES",
+        "clave_producto": "94101505",
+        "descripcion_producto": "ASOCIACIONES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES PROFESIONALES",
+        "clave_producto": "94101600",
+        "descripcion_producto": "ASOCIACIONES PROFESIONALES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE ODONTOLOGOS",
+        "clave_producto": "94101601",
+        "descripcion_producto": "ASOCIACIONES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE MEDICOS",
+        "clave_producto": "94101602",
+        "descripcion_producto": "ASOCIACIONES DE MEDICOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE ENFERMERAS",
+        "clave_producto": "94101603",
+        "descripcion_producto": "ASOCIACIONES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE CONTADORES",
+        "clave_producto": "94101604",
+        "descripcion_producto": "ASOCIACIONES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE ARQUITECTOS",
+        "clave_producto": "94101605",
+        "descripcion_producto": "ASOCIACIONES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COLEGIOS DE ABOGADOS",
+        "clave_producto": "94101606",
+        "descripcion_producto": "COLEGIOS DE ABOGADOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES EDUCATIVAS O DE",
+        "clave_producto": "94101607",
+        "descripcion_producto": "ASOCIACIONES EDUCATIVAS O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE INGENIEROS",
+        "clave_producto": "94101608",
+        "descripcion_producto": "ASOCIACIONES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES CIENTIFICAS",
+        "clave_producto": "94101609",
+        "descripcion_producto": "ASOCIACIONES CIENTIFICAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASOCIACIONES DE",
+        "clave_producto": "94101500",
+        "descripcion_producto": "ASOCIACIONES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "JUGO FRESCO",
+        "clave_producto": "50202305",
+        "descripcion_producto": "JUGO FRESCO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "REFRESCOS",
+        "clave_producto": "50202306",
+        "descripcion_producto": "REFRESCOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BEBIDA DE CHOCOLATE O MALTA U",
+        "clave_producto": "50202307",
+        "descripcion_producto": "BEBIDA DE CHOCOLATE O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "JUGOS O CONCENTRADOS DE",
+        "clave_producto": "50202400",
+        "descripcion_producto": "JUGOS O CONCENTRADOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAN FRESCO",
+        "clave_producto": "50181901",
+        "descripcion_producto": "PAN FRESCO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PANQUES PASTELES O BISCOCHOS",
+        "clave_producto": "50182001",
+        "descripcion_producto": "PANQUES PASTELES O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SANDWICHES Y PANECILLOS CON",
+        "clave_producto": "50192500",
+        "descripcion_producto": "SANDWICHES Y PANECILLOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "EMPAREDADOS FRESCOS",
+        "clave_producto": "50192501",
+        "descripcion_producto": "EMPAREDADOS FRESCOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PLATOS COMBINADOS",
+        "clave_producto": "50192700",
+        "descripcion_producto": "PLATOS COMBINADOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PRODUCTOS DE LECHE Y",
+        "clave_producto": "50131700",
+        "descripcion_producto": "PRODUCTOS DE LECHE Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HELADO DE SABOR O HELADO O",
+        "clave_producto": "50192303",
+        "descripcion_producto": "HELADO DE SABOR O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE CONSTRUCCION E",
+        "clave_producto": "72152303",
+        "descripcion_producto": "SERVICIO DE CONSTRUCCION E",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE MONTAJE E",
+        "clave_producto": "72152400",
+        "descripcion_producto": "SERVICIOS DE MONTAJE E",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE INSTALACION DE",
+        "clave_producto": "72152402",
+        "descripcion_producto": "SERVICIO DE INSTALACION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE VIDRIOS Y VENTANERIA",
+        "clave_producto": "72153000",
+        "descripcion_producto": "SERVICIOS DE VIDRIOS Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE INSTALACION DE",
+        "clave_producto": "72153001",
+        "descripcion_producto": "SERVICIO DE INSTALACION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE INSTALACION Y",
+        "clave_producto": "72153002",
+        "descripcion_producto": "SERVICIO DE INSTALACION Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PEGAMENTOS",
+        "clave_producto": "31201610",
+        "descripcion_producto": "PEGAMENTOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CINTA ADHESIVA",
+        "clave_producto": "31201500",
+        "descripcion_producto": "CINTA ADHESIVA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CARNES",
+        "clave_producto": "50111513",
+        "descripcion_producto": "CARNE, MINIMAMENTE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PUERCO",
+        "clave_producto": "50111514",
+        "descripcion_producto": "CERDO, MINIMAMENTE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAVO",
+        "clave_producto": "50111521",
+        "descripcion_producto": "PAVO, MINIMAMENTE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "POLLO",
+        "clave_producto": "50111515",
+        "descripcion_producto": "POLLO, MINIMAMENTE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CORDERO",
+        "clave_producto": "50111523",
+        "descripcion_producto": "CORDERO , MINIMAMENTE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TERNERA",
+        "clave_producto": "50111517",
+        "descripcion_producto": "TERNERA, MINIMAMENTE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PESCADO",
+        "clave_producto": "50121500",
+        "descripcion_producto": "PESCADO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PANELES DE MADERA",
+        "clave_producto": "30161903",
+        "descripcion_producto": "PANELES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ESCALERAS DE MADERA",
+        "clave_producto": "30162102",
+        "descripcion_producto": "ESCALERAS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PUERTAS DE MADERA",
+        "clave_producto": "30171504",
+        "descripcion_producto": "PUERTAS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PUERTA DE GARAJE DE MADERA",
+        "clave_producto": "30172103",
+        "descripcion_producto": "PUERTA DE GARAJE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MUEBLES",
+        "clave_producto": "56101500",
+        "descripcion_producto": "MUEBLES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "AGUA",
+        "clave_producto": "50202301",
+        "descripcion_producto": "LTR LITRO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HIELO",
+        "clave_producto": "50202302",
+        "descripcion_producto": "H87 PIEZA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "FINANCIACION DE AYUDAS",
+        "clave_producto": "84101600",
+        "descripcion_producto": "FINANCIACION DE  M4 VALOR MONETARIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS RELACIONADOS CON EL",
+        "clave_producto": "83121703",
+        "descripcion_producto": "SERVICIOS RELACIONADOS CON",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "REDACCION DE ARTICULOS",
+        "clave_producto": "82111503",
+        "descripcion_producto": "REDACCION DE ARTICULOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ESCRITURA CREATIVA",
+        "clave_producto": "82111700",
+        "descripcion_producto": "ESCRITURA CREATIVA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE ESCRITORES DE",
+        "clave_producto": "82111701",
+        "descripcion_producto": "SERVICIOS DE ESCRITORES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE COMPROBACION DE",
+        "clave_producto": "82111802",
+        "descripcion_producto": "SERVICIOS DE COMPROBACION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE TRADUCCION ESCRITA",
+        "clave_producto": "82111804",
+        "descripcion_producto": "SERVICIOS DE TRADUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE NOTICIAS Y",
+        "clave_producto": "82111900",
+        "descripcion_producto": "SERVICIOS DE NOTICIAS Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE COMUNICADOS DE",
+        "clave_producto": "82111901",
+        "descripcion_producto": "SERVICIOS DE COMUNICADOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE BOLETINES",
+        "clave_producto": "82111902",
+        "descripcion_producto": "SERVICIOS DE BOLETINES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS TELEGRAFICOS DE",
+        "clave_producto": "82111903",
+        "descripcion_producto": "SERVICIOS TELEGRAFICOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE ENTREGA DE",
+        "clave_producto": "82111904",
+        "descripcion_producto": "SERVICIOS DE ENTREGA DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LAVANDERIA,  JABON  DE",
+        "clave_producto": "53131608",
+        "descripcion_producto": "JABONES",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA, XBX"
+    },
+    {
+        "descripcion": "SURFACTANTES  DETERGENTES.  (DETERGENTE  EN",
+        "clave_producto": "12161902",
+        "descripcion_producto": "SURFACTANTES",
+        "clave_unidad": "H87",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ACEITES VEGETALES O DE PLANTA COMESTIBLES.",
+        "clave_producto": "50151513",
+        "descripcion_producto": "ACEITES",
+        "clave_unidad": "H87",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SUAVIZANTES DE TELAS.",
+        "clave_producto": "41104211",
+        "descripcion_producto": "SUAVIZANTES",
+        "clave_unidad": "H87",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DETERGENTE LIQUIDO PARA PISOS.",
+        "clave_producto": "47131801",
+        "descripcion_producto": "LIMPIADORES",
+        "clave_unidad": "H87",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BLANQUEADOR DE TELAS.",
+        "clave_producto": "47131807",
+        "descripcion_producto": "H87",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PASTA DENTAL.",
+        "clave_producto": "42151909",
+        "descripcion_producto": "PASTAS O KITS",
+        "clave_unidad": "H87",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GLICERINA.",
+        "clave_producto": "51171608",
+        "descripcion_producto": "GLICERINA",
+        "clave_unidad": "LTR",
+        "descripcion_unidad": "LITRO"
+    },
+    {
+        "descripcion": "OTROS  PRODUCTOS  DE  ANIMALES.  (HUESOS  DE",
+        "clave_producto": "11131600",
+        "descripcion_producto": "OTROS",
+        "clave_unidad": "KGM",
+        "descripcion_unidad": "| KILOGRAMO,"
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "85121502",
+        "descripcion_producto": "SERVICIOS DE CONSULTA DE",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD DE"
+    },
+    {
+        "descripcion": "TERMOMETROS",
+        "clave_producto": "42182200",
+        "descripcion_producto": "TERMOMETROS MEDICOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "VENDAS Y VENDAJES Y",
+        "clave_producto": "42311500",
+        "descripcion_producto": "VENDAS Y VENDAJES Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ADHESIVOS O PEGAMENTOS DE",
+        "clave_producto": "42312005",
+        "descripcion_producto": "ADHESIVOS O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LIMPIADOR DE MANOS",
+        "clave_producto": "53131627",
+        "descripcion_producto": "LIMPIADOR DE MANOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CHAMPUS",
+        "clave_producto": "53131628",
+        "descripcion_producto": "CHAMPUS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TORNILLOS*",
+        "clave_producto": "31161500",
+        "descripcion_producto": "TORNILLOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CLAVOS*",
+        "clave_producto": "31162000",
+        "descripcion_producto": "CLAVOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CHINCHES",
+        "clave_producto": "31162001",
+        "descripcion_producto": "CHINCHES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MARTILLOS",
+        "clave_producto": "27111602",
+        "descripcion_producto": "MARTILLOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HERRAMIENTAS MANUALES DE",
+        "clave_producto": "27112000",
+        "descripcion_producto": "HERRAMIENTAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TIJERAS DE PODAR",
+        "clave_producto": "27112007",
+        "descripcion_producto": "TIJERAS DE PODAR",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "AZADAS",
+        "clave_producto": "27112008",
+        "descripcion_producto": "AZADAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "RASPADORES",
+        "clave_producto": "27112009",
+        "descripcion_producto": "RASPADORES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HORQUILLA DE JARDIN",
+        "clave_producto": "27112010",
+        "descripcion_producto": "HORQUILLA DE JARDIN",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MANGOS DE HERRAMIENTAS",
+        "clave_producto": "27112011",
+        "descripcion_producto": "MANGOS DE HERRAMIENTAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CEMENTO Y CAL",
+        "clave_producto": "30111600",
+        "descripcion_producto": "CEMENTO Y CAL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "YESO",
+        "clave_producto": "30111700",
+        "descripcion_producto": "YESO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GRAVILLA",
+        "clave_producto": "11111611",
+        "descripcion_producto": "GRAVILLA  CUBICO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CONECTORES DE TUBOS",
+        "clave_producto": "39121434",
+        "descripcion_producto": "CONECTORES DE TUBOS",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "ARENA",
+        "clave_producto": "11111700",
+        "descripcion_producto": "ARENA  CUBICO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LADRILLOS",
+        "clave_producto": "30131600",
+        "descripcion_producto": "LADRILLOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "VARILLA",
+        "clave_producto": "30102400",
+        "descripcion_producto": "VARILLA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ALAMBRE**",
+        "clave_producto": "31152200",
+        "descripcion_producto": "ALAMBRE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ADHESIVOS QUIMICOS",
+        "clave_producto": "31201601",
+        "descripcion_producto": "ADHESIVOS QUIMICOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GIMNASIO",
+        "clave_producto": "91101501",
+        "descripcion_producto": "GIMNASIOS O CENTROS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CLASES DE AEROBICOS",
+        "clave_producto": "91101504",
+        "descripcion_producto": "B CLASES DE AEROBICOS O  SERVICIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE LAVANDERIA",
+        "clave_producto": "91111502",
+        "descripcion_producto": "SERVICIOS DE LAVANDERIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LAVADO EN SECO",
+        "clave_producto": "91111503",
+        "descripcion_producto": "LAVADO EN SECO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "AUTOSERVICIO",
+        "clave_producto": "91111504",
+        "descripcion_producto": "LAVANDERIA DE AUTOSERVICIO  SERVICIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MANUFACTURA  DE  EQUIPO  DE",
+        "clave_producto": "73161600",
+        "descripcion_producto": "MANUFACTURA DE EQUIPO DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BIENES",
+        "clave_producto": "73171500",
+        "descripcion_producto": "MANUFACTURA DE BIENES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PRODUCCION DE TELA Y CUERO***",
+        "clave_producto": "73141700",
+        "descripcion_producto": "PRODUCCION DE TELAS Y CUERO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAN, GALLETAS Y PASTELITOS DULCES",
+        "clave_producto": "50181900",
+        "descripcion_producto": "PAN, GALLETAS Y PASTELITOS DULCES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAN FRESCO",
+        "clave_producto": "50181901",
+        "descripcion_producto": "PAN FRESCO",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "PAN CONGELADO",
+        "clave_producto": "50181902",
+        "descripcion_producto": "PAN CONGELADO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GALLETAS SENCILLAS DE SAL",
+        "clave_producto": "50181903",
+        "descripcion_producto": "GALLETAS SENCILLAS DE SAL  KGM",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAN SECO",
+        "clave_producto": "50181904",
+        "descripcion_producto": "PAN  SECO  O  CASCARAS  DE  PAN  O  XPK",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GALLETAS DE DULCE",
+        "clave_producto": "50181905",
+        "descripcion_producto": "GALLETAS DE DULCE  KGM",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAN DE REPISA",
+        "clave_producto": "50181906",
+        "descripcion_producto": "PAN DE REPISA",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "MASA CONGELADA PARA GALLETAS",
+        "clave_producto": "50181907",
+        "descripcion_producto": "MAZA CONGELADA PARA GALLETAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MASA CONGELADA PARA PAN",
+        "clave_producto": "50181908",
+        "descripcion_producto": "MAZA CONGELADA PARA PAN",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GALLETAS DE SODA",
+        "clave_producto": "50181909",
+        "descripcion_producto": "GALLETAS DE SODA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TARTAS Y EMPANADAS Y PASTAS",
+        "clave_producto": "50182000",
+        "descripcion_producto": "TARTAS Y EMPANADAS Y PASTAS",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "PANQUES,  PASTELES  O  BISCOCHOS",
+        "clave_producto": "50182001",
+        "descripcion_producto": "PONQUES PASTELES O BISCOCHOS",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "PANQUES,  PASTELES  O  BISCOCHOS",
+        "clave_producto": "50182002",
+        "descripcion_producto": "PONQUES PASTELES O BISCOCHOS",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "MASA PARA PASTELERIA CONGELADA",
+        "clave_producto": "50182003",
+        "descripcion_producto": "MAZA PARA PASTELERIA CONGELADA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SODA",
+        "clave_producto": "50182004",
+        "descripcion_producto": "MAZA PARA GALLETAS DE SODA  KGM",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HARINA",
+        "clave_producto": "50221002",
+        "descripcion_producto": "HARINA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "50192300",
+        "descripcion_producto": "POSTRES Y DECORACIONES DE",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "POSTRES PREPARADOS",
+        "clave_producto": "50192301",
+        "descripcion_producto": "POSTRES PREPARADOS",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "COMPLEMENTOS DE POSTRES",
+        "clave_producto": "50192302",
+        "descripcion_producto": "COMPLEMENTOS DE POSTRES",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "HELADO  DE  SABOR  O  HELADO  O",
+        "clave_producto": "50192303",
+        "descripcion_producto": "HELADO DE SABOR O HELADO O  KGM",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HELADO",
+        "clave_producto": "50192304",
+        "descripcion_producto": "CONOS O COPAS DE HELADO  XPK",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "Y",
+        "clave_producto": "50192400",
+        "descripcion_producto": "MERMELADAS Y GELATINAS Y",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "CONSERVAS  DE",
+        "clave_producto": "50192401",
+        "descripcion_producto": "MERMELADAS O PRESERVATIVOS DE",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "VELAS DE CUMPLEANOS",
+        "clave_producto": "39112604",
+        "descripcion_producto": "VELAS DE CERA",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "MANTEQUILLA DE NUECES O MIXTO",
+        "clave_producto": "50192402",
+        "descripcion_producto": "MANTEQUILLA DE NUECES O MIXTO",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "MIEL",
+        "clave_producto": "50192403",
+        "descripcion_producto": "MIEL",
+        "clave_unidad": "LTR",
+        "descripcion_unidad": "LITRO"
+    },
+    {
+        "descripcion": "CHOCOLATE",
+        "clave_producto": "50202307",
+        "descripcion_producto": "BEBIDA DE CHOCOLATE O MALTA U",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "LECHE",
+        "clave_producto": "50131700",
+        "descripcion_producto": "PRODUCTOS DE LECHE Y",
+        "clave_unidad": "LTR",
+        "descripcion_unidad": "LITRO"
+    },
+    {
+        "descripcion": "O",
+        "clave_producto": "50192404",
+        "descripcion_producto": "CRISTALES DE GELATINA O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GELATINA REAL PROCESADA",
+        "clave_producto": "50192405",
+        "descripcion_producto": "GELATINA REAL PROCESADA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GELATINA DE ALMIDON DE NUEZ",
+        "clave_producto": "50192406",
+        "descripcion_producto": "GELATINA DE ALMIDON DE NUEZ",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "Y  PANECILLOS  CON",
+        "clave_producto": "50192500",
+        "descripcion_producto": "SANDWICHES Y PANECILLOS CON",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "EMPAREDADOS CONGELADOS",
+        "clave_producto": "50192502",
+        "descripcion_producto": "EMPAREDADOS CONGELADOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TIJERAS",
+        "clave_producto": "44121618",
+        "descripcion_producto": "TIJERAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LIBRETAS O CUADERNOS",
+        "clave_producto": "14111514",
+        "descripcion_producto": "BLOCS O CUADERNOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COLORES",
+        "clave_producto": "44121707",
+        "descripcion_producto": "LAPICES DE COLORES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LAPICES DE MADERA",
+        "clave_producto": "44121706",
+        "descripcion_producto": "LAPICES DE MADERA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BOLIGRAFOS",
+        "clave_producto": "44121701",
+        "descripcion_producto": "BOLIGRAFOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BORRADORES DE GOMA",
+        "clave_producto": "60121535",
+        "descripcion_producto": "BORRADORES DE GOMA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "IMPRESION  DE",
+        "clave_producto": "14111506",
+        "descripcion_producto": "PAPEL PARA IMPRESION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "JUEGOS DE GEOMETRIA*",
+        "clave_producto": "60103110",
+        "descripcion_producto": "GUIAS DE REFERENCIA DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PEGAMENTO",
+        "clave_producto": "31201610",
+        "descripcion_producto": "PEGAMENTOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CUIDADO DE PELO",
+        "clave_producto": "91101700",
+        "descripcion_producto": "CUIDADO DE PELO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE CORTE Y TINTE DE",
+        "clave_producto": "91101701",
+        "descripcion_producto": "SERVICIOS DE CORTE Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE EXTENSIONES O",
+        "clave_producto": "91101702",
+        "descripcion_producto": "SERVICIOS DE  SERVICIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CONSULTA DE MAQUILLAJE",
+        "clave_producto": "91101602",
+        "descripcion_producto": "CONSULTA DE MAQUILLAJE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CUIDADO FACIAL Y CORPORAL*",
+        "clave_producto": "91101600",
+        "descripcion_producto": "CUIDADO FACIAL Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "O",
+        "clave_producto": "53131623",
+        "descripcion_producto": "PRODUCTOS DEPILATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ARTICULOS PARA EL CUIDADO DEL",
+        "clave_producto": "53131602",
+        "descripcion_producto": "ARTICULOS PARA EL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "FRIJOL",
+        "clave_producto": "50401800",
+        "descripcion_producto": "FRIJOL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ALPISTE",
+        "clave_producto": "10121602",
+        "descripcion_producto": "ALPISTE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEMILLAS DE TRIGO",
+        "clave_producto": "10151601",
+        "descripcion_producto": "SEMILLAS DE TRIGO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEMILLAS DE LINAZA",
+        "clave_producto": "10151607",
+        "descripcion_producto": "SEMILLAS DE LINAZA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEMILLAS DE MAIZ",
+        "clave_producto": "10151609",
+        "descripcion_producto": "SEMILLAS DE MAIZ",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HABA",
+        "clave_producto": "10151539",
+        "descripcion_producto": "SEMILLAS O PLANTULAS DE HABA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAPA",
+        "clave_producto": "10151527",
+        "descripcion_producto": "SEMILLAS O PLANTULAS DE PAPA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CALABAZA",
+        "clave_producto": "10151529",
+        "descripcion_producto": "SEMILLAS O PLANTULAS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COL DE BRUSELAS",
+        "clave_producto": "10151531",
+        "descripcion_producto": "SEMILLAS O PLANTULAS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HIERBAS PARA TE",
+        "clave_producto": "10161508",
+        "descripcion_producto": "PLANTAS DE TE",
+        "clave_unidad": "XBH",
+        "descripcion_unidad": "MANOJO"
+    },
+    {
+        "descripcion": "CAFE",
+        "clave_producto": "50201706",
+        "descripcion_producto": "CAFE",
+        "clave_unidad": "KGM",
+        "descripcion_unidad": "KILOGRAMO"
+    },
+    {
+        "descripcion": "AJO",
+        "clave_producto": "50403800",
+        "descripcion_producto": "AJO",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "MANDARINA",
+        "clave_producto": "50304400",
+        "descripcion_producto": "MANDARINA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "NARANJAS",
+        "clave_producto": "50305000",
+        "descripcion_producto": "NARANJAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CHAYOTE",
+        "clave_producto": "50417017",
+        "descripcion_producto": "CHAYOTE O GUATILA ORGANICO",
+        "clave_unidad": "KGM",
+        "descripcion_unidad": "KILOGRAMO"
+    },
+    {
+        "descripcion": "AGUACATES",
+        "clave_producto": "50401700",
+        "descripcion_producto": "AGUACATES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ESPARRAGOS",
+        "clave_producto": "50401600",
+        "descripcion_producto": "ESPARRAGOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ALCACHOFAS",
+        "clave_producto": "50401500",
+        "descripcion_producto": "ALCACHOFAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LIMONES",
+        "clave_producto": "50304100",
+        "descripcion_producto": "LIMONES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MANGOS",
+        "clave_producto": "50304500",
+        "descripcion_producto": "MANGOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MELONES",
+        "clave_producto": "50304600",
+        "descripcion_producto": "MELONES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SANDIA",
+        "clave_producto": "50304610",
+        "descripcion_producto": "SANDIA CHARLESTON GRAY",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PEPINOS",
+        "clave_producto": "50307024",
+        "descripcion_producto": "PEPINOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PLATANO",
+        "clave_producto": "50307025",
+        "descripcion_producto": "PLATANO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GUANABANA",
+        "clave_producto": "50307035",
+        "descripcion_producto": "GUANABANA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GUAYABA",
+        "clave_producto": "50307045",
+        "descripcion_producto": "GUAYABA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "VERDOLAGA",
+        "clave_producto": "50404127",
+        "descripcion_producto": "VERDOLAGA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COLES",
+        "clave_producto": "50404200",
+        "descripcion_producto": "COLES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HIERBAS FINAS PARA GUISAR",
+        "clave_producto": "50404100",
+        "descripcion_producto": "HIERBAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ALBAHACA",
+        "clave_producto": "50404101",
+        "descripcion_producto": "ALBAHACA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "EPAZOTE",
+        "clave_producto": "50404110",
+        "descripcion_producto": "EPAZOTE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LAUREL",
+        "clave_producto": "50404102",
+        "descripcion_producto": "LAUREL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CILANTRO",
+        "clave_producto": "50404106",
+        "descripcion_producto": "CILANTRO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ENELDO",
+        "clave_producto": "50404109",
+        "descripcion_producto": "ENELDO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MENTA",
+        "clave_producto": "50404114",
+        "descripcion_producto": "MENTA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "OREGANO",
+        "clave_producto": "50404115",
+        "descripcion_producto": "OREGANO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAPALO",
+        "clave_producto": "50404116",
+        "descripcion_producto": "PAPALO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ROMERO",
+        "clave_producto": "50404120",
+        "descripcion_producto": "ROMERO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ANIMALES VIVOS DE GRANJA",
+        "clave_producto": "10101500",
+        "descripcion_producto": "ANIMALES VIVOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CABALLOS",
+        "clave_producto": "10101506",
+        "descripcion_producto": "CABALLOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "OVEJAS",
+        "clave_producto": "10101507",
+        "descripcion_producto": "OVEJAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CABRAS",
+        "clave_producto": "10101508",
+        "descripcion_producto": "CABRAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CERDOS",
+        "clave_producto": "10101511",
+        "descripcion_producto": "CERDOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CONEJOS",
+        "clave_producto": "10101512",
+        "descripcion_producto": "CONEJOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GANADO VACUNO",
+        "clave_producto": "10101516",
+        "descripcion_producto": "GANADO VACUNO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PAJAROS  Y  AVES  DE  CORRAL",
+        "clave_producto": "10101600",
+        "descripcion_producto": "PAJAROS Y AVES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "POLLOS",
+        "clave_producto": "10101601",
+        "descripcion_producto": "POLLOS VIVOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PATOS",
+        "clave_producto": "10101602",
+        "descripcion_producto": "PATOS VIVOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PECES",
+        "clave_producto": "10101700",
+        "descripcion_producto": "PECES VIVOS",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA O POR KGM"
+    },
+    {
+        "descripcion": "SALMON",
+        "clave_producto": "10101701",
+        "descripcion_producto": "SALMONES VIVOS",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA O POR KGM"
+    },
+    {
+        "descripcion": "TRUCHA",
+        "clave_producto": "10101702",
+        "descripcion_producto": "TRUCHA VIVA",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA O POR KGM"
+    },
+    {
+        "descripcion": "CARPA",
+        "clave_producto": "10101704",
+        "descripcion_producto": "CARPA VIVA",
+        "clave_unidad": "KGM",
+        "descripcion_unidad": "KILOGRAMO"
+    },
+    {
+        "descripcion": "TILAPIA",
+        "clave_producto": "10101703",
+        "descripcion_producto": "TILAPIA VIVA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MARISCOS",
+        "clave_producto": "10101800",
+        "descripcion_producto": "MARISCOS E",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CAMARON",
+        "clave_producto": "10101801",
+        "descripcion_producto": "CAMARON VIVO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PULPO",
+        "clave_producto": "10101807",
+        "descripcion_producto": "PULPO VIVO",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "CALAMAR",
+        "clave_producto": "10101808",
+        "descripcion_producto": "CALAMAR VIVO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ALMEJA",
+        "clave_producto": "10101802",
+        "descripcion_producto": "ALMEJAS VIVAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CANGREJOS",
+        "clave_producto": "10101805",
+        "descripcion_producto": "CANGREJOS VIVOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "INDIVIDUAL,",
+        "clave_producto": "84131601",
+        "descripcion_producto": "SEGUROS DE VIDA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ACCIDENTES",
+        "clave_producto": "84131603",
+        "descripcion_producto": "SEGUROS DE DANOS PERSONALES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GASTOS  MEDICOS,",
+        "clave_producto": "84131602",
+        "descripcion_producto": "SEGUROS DE ASISTENCIA MEDICA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "INDIVIDUAL,",
+        "clave_producto": "84131602",
+        "descripcion_producto": "SEGUROS DE ASISTENCIA MEDICA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DANOS,",
+        "clave_producto": "84131607",
+        "descripcion_producto": "SEGURO DE RESPONSABILIDAD",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD"
+    },
+    {
+        "descripcion": "SEGURO MARITIMO Y TRANSPORTES:",
+        "clave_producto": "84131504",
+        "descripcion_producto": "SEGUROS DE CARGA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEGURO MARITIMO Y TRANSPORTES:",
+        "clave_producto": "84131505",
+        "descripcion_producto": "SEGUROS MARITIMOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEGURO MARITIMO Y TRANSPORTES:",
+        "clave_producto": "84131500",
+        "descripcion_producto": "SERVICIOS DE SEGUROS PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "RIESGOS",
+        "clave_producto": "84131500",
+        "descripcion_producto": "SERVICIOS DE SEGUROS PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEGURO AGRICOLA Y DE ANIMALES:",
+        "clave_producto": "84131500",
+        "descripcion_producto": "SERVICIOS DE SEGUROS PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEGURO DE AUTOMOVILES:",
+        "clave_producto": "84131503",
+        "descripcion_producto": "SERVICIOS DE SEGUROS PARA  DE SERVICIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEGUROS  DE  CREDITO,  CREDITO  A  LA",
+        "clave_producto": "84131500",
+        "descripcion_producto": "SERVICIOS DE SEGUROS PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SEGUROS  DIVERSOS:  MISCELANEOS,",
+        "clave_producto": "84131500",
+        "descripcion_producto": "SERVICIOS DE SEGUROS PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASISTENCIA DE OFICINA O",
+        "clave_producto": "80111601",
+        "descripcion_producto": "ASISTENCIA DE OFICINA O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE ASESORAMIENTO SOBRE",
+        "clave_producto": "80101503",
+        "descripcion_producto": "SERVICIOS DE ASESORAMIENTO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE ASESORAMIENTO SOBRE",
+        "clave_producto": "80101504",
+        "descripcion_producto": "SERVICIOS DE ASESORAMIENTO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DESARROLLO DE POLITICAS U OBJETIVOS",
+        "clave_producto": "80101505",
+        "descripcion_producto": "DESARROLLO DE POLITICAS U",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ASESORAMIENTO EN ESTRUCTURAS",
+        "clave_producto": "80101506",
+        "descripcion_producto": "ASESORAMIENTO EN",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE ALBANILERIA Y",
+        "clave_producto": "72151900",
+        "descripcion_producto": "SERVICIOS DE ALBANILERIA Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE CIMENTACION DE",
+        "clave_producto": "72151901",
+        "descripcion_producto": "SERVICIO DE CIMENTACION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE COLOCACION DE",
+        "clave_producto": "72151903",
+        "descripcion_producto": "SERVICIO DE COLOCACION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE CONSTRUCCION Y",
+        "clave_producto": "72151904",
+        "descripcion_producto": "SERVICIO DE CONSTRUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE MAMPOSTERIA EN",
+        "clave_producto": "72151905",
+        "descripcion_producto": "SERVICIO DE MAMPOSTERIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE INSTALACION DE",
+        "clave_producto": "72151906",
+        "descripcion_producto": "SERVICIO DE INSTALACION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE MAMPOSTERIA EN",
+        "clave_producto": "72151907",
+        "descripcion_producto": "SERVICIO DE MAMPOSTERIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE MAMPOSTERIA EN",
+        "clave_producto": "72151908",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE MAMPOSTERIA EN",
+        "clave_producto": "72151909",
+        "descripcion_producto": "SERVICIO DE MAMPOSTERIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE INSTALACION DE",
+        "clave_producto": "72151911",
+        "descripcion_producto": "SERVICIO DE INSTALACION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE AISLAMIENTO Y",
+        "clave_producto": "72152102",
+        "descripcion_producto": "SERVICIO DE AISLAMIENTO Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE BALDOSAS TERRAZO Y",
+        "clave_producto": "72152200",
+        "descripcion_producto": "SERVICIOS DE BALDOSAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE INSTALACION DE",
+        "clave_producto": "72152201",
+        "descripcion_producto": "SERVICIO DE INSTALACION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO CREACION Y REPARACION",
+        "clave_producto": "72152202",
+        "descripcion_producto": "SERVICIO CREACION Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE INSTALACION Y",
+        "clave_producto": "72152203",
+        "descripcion_producto": "SERVICIO DE INSTALACION Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE INSTALACION DE",
+        "clave_producto": "72152204",
+        "descripcion_producto": "SERVICIO DE INSTALACION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "EQUIPOS DE SONIDO",
+        "clave_producto": "72151603",
+        "descripcion_producto": "SERVICIO DE INSTALACION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE CERRAJERIA",
+        "clave_producto": "72101505",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD DE"
+    },
+    {
+        "descripcion": "DE  COMERCIO",
+        "clave_producto": "80151600",
+        "descripcion_producto": "SERVICIOS  DE  COMERCIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE EXPORTACIONES.",
+        "clave_producto": "80151601",
+        "descripcion_producto": "",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE PLANIFICACION DE",
+        "clave_producto": "80151602",
+        "descripcion_producto": "PLANIFICACION  DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS  DE  PROYECCION  DE",
+        "clave_producto": "80151603",
+        "descripcion_producto": "PROYECCIONES  DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS  DE  ADQUISICION  DE",
+        "clave_producto": "80151604",
+        "descripcion_producto": "",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE  CONSULTORIA",
+        "clave_producto": "80151605",
+        "descripcion_producto": "",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE CONSTRUCCION",
+        "clave_producto": "80111618",
+        "descripcion_producto": "SERVICIOS TEMPORALES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GESTION DE CONSTRUCCION DE",
+        "clave_producto": "81101513",
+        "descripcion_producto": "GESTION DE CONSTRUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE CONSTRUCCION DE",
+        "clave_producto": "72111000",
+        "descripcion_producto": "SERVICIOS DE CONSTRUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE REPARACION O",
+        "clave_producto": "72111001",
+        "descripcion_producto": "SERVICIOS DE REPARACION O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE CONSTRUCCION DE",
+        "clave_producto": "72111100",
+        "descripcion_producto": "SERVICIOS DE CONSTRUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE CONSTRUCCION DE",
+        "clave_producto": "72111101",
+        "descripcion_producto": "SERVICIO DE CONSTRUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE CONSTRUCCION DE",
+        "clave_producto": "72121000",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE CONSTRUCCION DE",
+        "clave_producto": "72121100",
+        "descripcion_producto": "SERVICIOS DE CONSTRUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE CONSTRUCCION DE",
+        "clave_producto": "72121101",
+        "descripcion_producto": "SERVICIO DE CONSTRUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE CONSTRUCCION DE",
+        "clave_producto": "72121300",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE CONSTRUCCION DE",
+        "clave_producto": "72121401",
+        "descripcion_producto": "SERVICIO  DE  CONSTRUCCION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE PSICOLOGIA",
+        "clave_producto": "85121608",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE TERAPIA",
+        "clave_producto": "85122102",
+        "descripcion_producto": "SERVICIOS DE TERAPIA",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD DE"
+    },
+    {
+        "descripcion": "TERAPIA DEL HABLA O DEL",
+        "clave_producto": "85122108",
+        "descripcion_producto": "TERAPIA DEL HABLA O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE",
+        "clave_producto": "85121701",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE  MEDICAMENTOS",
+        "clave_producto": "51212000",
+        "descripcion_producto": "FARMACOS HERBALES",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "PREPARACIONES HOMEOPATICAS",
+        "clave_producto": "85121901",
+        "descripcion_producto": "SERVICIOS DE PREPARACION",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "ARTESANIAS, CURADURIA ETC.)",
+        "clave_producto": "86131500",
+        "descripcion_producto": "BELLAS ARTES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "EMPASTADO DE LIBROS",
+        "clave_producto": "82121900",
+        "descripcion_producto": "EMPASTE DE LIBROS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ENCUADERNACION EN RUSTICA",
+        "clave_producto": "82121901",
+        "descripcion_producto": "ENCUADERNACION EN",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ENCUADERNACION ESPIRAL",
+        "clave_producto": "82121902",
+        "descripcion_producto": "ENCUADERNACION ESPIRAL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CON",
+        "clave_producto": "82121903",
+        "descripcion_producto": "ENCUADERNACION CON",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ENCUADERNACION CON GRAPA",
+        "clave_producto": "82121904",
+        "descripcion_producto": "ENCUADERNACION POR",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "RESTAURACION O REPARACION DE",
+        "clave_producto": "82121905",
+        "descripcion_producto": "RESTAURACION O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ESTACIONAMIENTO (ESTACIONAMIENTO",
+        "clave_producto": "78111807",
+        "descripcion_producto": "TARIFAS DEL",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD DE"
+    },
+    {
+        "descripcion": "*SERVICIO DE LABORATORIOS MEDICO",
+        "clave_producto": "85121800",
+        "descripcion_producto": "LABORATORIOS MEDICOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "85121801",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LABORATORIOS",
+        "clave_producto": "85121802",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LABORATORIOS",
+        "clave_producto": "85121803",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LABORATORIOS",
+        "clave_producto": "85121804",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "85121805",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD DE"
+    },
+    {
+        "descripcion": "LABORATORIOS",
+        "clave_producto": "85121806",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "85121807",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE LABORATORIOS DE RAYOS",
+        "clave_producto": "85121808",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS  DE  BANCOS  DE  SANGRE,",
+        "clave_producto": "85121809",
+        "descripcion_producto": "SERVICIOS DE BANCOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "85121810",
+        "descripcion_producto": "DETECCION DE DROGAS O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "RESIDENCIAL",
+        "clave_producto": "72151301",
+        "descripcion_producto": "SERVICIO DE PINTURA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE PINTURA",
+        "clave_producto": "72151302",
+        "descripcion_producto": "SERVICIO DE PINTURA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE PINTURA",
+        "clave_producto": "72151303",
+        "descripcion_producto": "SERVICIO DE PINTURA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE TOPOGRAFIA",
+        "clave_producto": "81101512",
+        "descripcion_producto": "SERVICIOS DE SISTEMAS DE",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD DE"
+    },
+    {
+        "descripcion": "TRANSPORTE DE CARGA POR",
+        "clave_producto": "78101800",
+        "descripcion_producto": "TRANSPORTE DE CARGA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MUDANZA",
+        "clave_producto": "78101804",
+        "descripcion_producto": "SERVICIOS DE REUBICACION",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "FERROCARRIL",
+        "clave_producto": "78101600",
+        "descripcion_producto": "TRANSPORTE DE CARGA POR",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TRANSPORTE DE CARGA POR",
+        "clave_producto": "78101801",
+        "descripcion_producto": "SERVICIOS  DE  TRANSPORTE  DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TRANSPORTE DE CARGA POR",
+        "clave_producto": "78101802",
+        "descripcion_producto": "SERVICIOS TRANSPORTE DE  DE SERVICIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE TRANSPORTE DE",
+        "clave_producto": "78101803",
+        "descripcion_producto": "SERVICIOS DE TRANSPORTE DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE ALQUILER DE",
+        "clave_producto": "78101805",
+        "descripcion_producto": "SERVICIO DE ALQUILER DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS TRANSPORTE DE CARGA",
+        "clave_producto": "78101806",
+        "descripcion_producto": "SERVICIOS TRANSPORTE DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE TRANSPORTE DE",
+        "clave_producto": "78101807",
+        "descripcion_producto": "SERVICIOS DE TRANSPORTE DE",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD"
+    },
+    {
+        "descripcion": "EMPAQUE",
+        "clave_producto": "78121500",
+        "descripcion_producto": "EMPAQUE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CONTENEDORIZACION DE",
+        "clave_producto": "78121501",
+        "descripcion_producto": "CONTENEDORIZACION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE EMBALAJE",
+        "clave_producto": "78121502",
+        "descripcion_producto": "SERVICIOS DE EMBALAJE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE MANEJO DE",
+        "clave_producto": "78121600",
+        "descripcion_producto": "SERVICIOS DE MANEJO DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CARGA Y DESCARGA DE",
+        "clave_producto": "78121601",
+        "descripcion_producto": "CARGA Y DESCARGA DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE PESAJE",
+        "clave_producto": "78121602",
+        "descripcion_producto": "SERVICIOS DE PESAJE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CAMIONES CON HORARIOS",
+        "clave_producto": "78111802",
+        "descripcion_producto": "SERVICIOS DE BUSES CON",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CAMIONES CONTRATADOS",
+        "clave_producto": "78111803",
+        "descripcion_producto": "SERVICIOS DE BUSES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TAXIS",
+        "clave_producto": "78111804",
+        "descripcion_producto": "SERVICIOS DE TAXI",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE VERIFICACION DE",
+        "clave_producto": "90121603",
+        "descripcion_producto": "SERVICIO DE VERIFICACION DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TRANSPORTE DE PASAJEROS POR",
+        "clave_producto": "78111600",
+        "descripcion_producto": "TRANSPORTE DE PASAJEROS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "VEHICULOS DE SERVICIOS DE",
+        "clave_producto": "78101604",
+        "descripcion_producto": "VEHICULOS DE SERVICIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ESTABLECIMIENTO PARA COMER Y",
+        "clave_producto": "90101500",
+        "descripcion_producto": "ESTABLECIMIENTOS PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CAFETERIA",
+        "clave_producto": "90101700",
+        "descripcion_producto": "SERVICIOS DE CAFETERIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "RESTAURANTES",
+        "clave_producto": "90101501",
+        "descripcion_producto": "RESTAURANTES",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD"
+    },
+    {
+        "descripcion": "BARES",
+        "clave_producto": "90101502",
+        "descripcion_producto": "BARES  DE SERVICIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIO DE COMIDA RAPIDA",
+        "clave_producto": "90101503",
+        "descripcion_producto": "ESTABLECIMIENTOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE COMIDA PARA LLEVAR",
+        "clave_producto": "90101800",
+        "descripcion_producto": "SERVICIOS DE COMIDA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SOPAS Y ESTOFADOS",
+        "clave_producto": "50191500",
+        "descripcion_producto": "SOPAS Y ESTOFADOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BOTANAS",
+        "clave_producto": "50192100",
+        "descripcion_producto": "BOTANAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "POSTRES Y DECORACIONES DE",
+        "clave_producto": "50192300",
+        "descripcion_producto": "POSTRES Y DECORACIONES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CARNES Y AVES DE CORRAL",
+        "clave_producto": "50111500",
+        "descripcion_producto": "CARNE Y AVES DE CORRAL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ENSALADAS",
+        "clave_producto": "50193200",
+        "descripcion_producto": "ENSALADAS PREPARADAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "QUESO",
+        "clave_producto": "50131800",
+        "descripcion_producto": "QUESO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HUEVOS",
+        "clave_producto": "50131609",
+        "descripcion_producto": "HUEVOS PREPARADOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PULPO EN ESCABECHE",
+        "clave_producto": "50121901",
+        "descripcion_producto": "PULPO EN ESCABECHE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BEBIDAS DE TE",
+        "clave_producto": "50201712",
+        "descripcion_producto": "BEBIDAS DE TE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "AGUA",
+        "clave_producto": "50202301",
+        "descripcion_producto": "AGUA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BEBIDA DE CAFE",
+        "clave_producto": "50201708",
+        "descripcion_producto": "BEBIDA DE CAFE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TE DE FRUTAS",
+        "clave_producto": "50201715",
+        "descripcion_producto": "TE DE FRUTAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BEBIDAS ALCOHOLICAS",
+        "clave_producto": "50202200",
+        "descripcion_producto": "BEBIDAS ALCOHOLICAS*",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CERVEZA",
+        "clave_producto": "50202201",
+        "descripcion_producto": "CERVEZA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "VINO",
+        "clave_producto": "50202203",
+        "descripcion_producto": "VINO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MANEJO DE DEUDA",
+        "clave_producto": "84101700",
+        "descripcion_producto": "MANEJO DE",
+        "clave_unidad": "C62",
+        "descripcion_unidad": "UNO"
+    },
+    {
+        "descripcion": "SERVICIO DE ESTUDIO",
+        "clave_producto": "82131604",
+        "descripcion_producto": "SERVICIOS DE ESTUDIO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE PRODUCCION DE",
+        "clave_producto": "82131603",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "85121502",
+        "descripcion_producto": "SERVICIOS DE CONSULTA DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE ENFERMERIA",
+        "clave_producto": "85101601",
+        "descripcion_producto": "SERVICIOS DE ENFERMERIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HOSPITALES SIQUIATRICOS",
+        "clave_producto": "85101504",
+        "descripcion_producto": "SERVICIOS DE HOSPITALES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HOSPITALES  DE  ENFERMEDADES",
+        "clave_producto": "85101505",
+        "descripcion_producto": "SERVICIOS RESPIRATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HOSPITALES  PARA  EL  ABUSO  DE",
+        "clave_producto": "85101506",
+        "descripcion_producto": "SERVICIOS HOSPITALARIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PARAMEDICOS",
+        "clave_producto": "85101507",
+        "descripcion_producto": "CENTROS ASISTENCIALES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "AMBULANCIAS",
+        "clave_producto": "85101508",
+        "descripcion_producto": "CENTROS O SERVICIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE REHABILITACION",
+        "clave_producto": "85122100",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE FISIOTERAPIA",
+        "clave_producto": "85122101",
+        "descripcion_producto": "SERVICIOS DE FISIOTERAPIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "HOSPITALARIOS GINECOLOGICOS U",
+        "clave_producto": "85101509",
+        "descripcion_producto": "SERVICIOS HOSPITALARIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "85101602",
+        "descripcion_producto": "SERVICIOS DE OBSTETRICIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ESTUDIOS Y LABORATORIOS",
+        "clave_producto": "85121800",
+        "descripcion_producto": "LABORATORIOS MEDICOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LABORATORIOS  DE",
+        "clave_producto": "85121808",
+        "descripcion_producto": "SERVICIOS DE LABORATORIOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS CONTABLES*",
+        "clave_producto": "84111500",
+        "descripcion_producto": "SERVICIOS CONTABLES*",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SUMINISTROS",
+        "clave_producto": "42242300",
+        "descripcion_producto": "EQUIPO Y SUMINISTROS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PLANTILLAS PARA ZAPATOS",
+        "clave_producto": "46182208",
+        "descripcion_producto": "PLANTILLAS PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "FERULAS PARA LA MUNECA",
+        "clave_producto": "46182204",
+        "descripcion_producto": "FERULAS PARA LA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SOPORTES PARA LAS RODILLAS",
+        "clave_producto": "46182209",
+        "descripcion_producto": "SOPORTES PARA LAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PROTECTOR  LUMBAR  O  FERULA",
+        "clave_producto": "46182211",
+        "descripcion_producto": "PROTECTOR LUMBAR O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "REPARACION  DE",
+        "clave_producto": "78181500",
+        "descripcion_producto": "SERVICIOS DE",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD"
+    },
+    {
+        "descripcion": "ALMIBAR",
+        "clave_producto": "50161512",
+        "descripcion_producto": "ALMIBAR",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "MIEL",
+        "clave_producto": "50192403",
+        "descripcion_producto": "MIEL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ATUN, SARDINAS Y ANGUILAS",
+        "clave_producto": "50467007",
+        "descripcion_producto": "ATUN ENLATADO",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "CERVEZA",
+        "clave_producto": "50202201",
+        "descripcion_producto": "CERVEZA  C62",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "VINO",
+        "clave_producto": "50202203",
+        "descripcion_producto": "VINO  C62",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TORTILLAS DE MAIZ*",
+        "clave_producto": "50221300",
+        "descripcion_producto": "HARINA Y PRODUCTOS DE",
+        "clave_unidad": "KGM",
+        "descripcion_unidad": "KILOGRAMO"
+    },
+    {
+        "descripcion": "SALSAS",
+        "clave_producto": "50171800",
+        "descripcion_producto": "SALSAS Y CONDIMENTOS Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ARROZ",
+        "clave_producto": "50192601",
+        "descripcion_producto": "PAPAS PREPARADAS FRESCAS O",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "FRIJOLES",
+        "clave_producto": "50401800",
+        "descripcion_producto": "FRIJOLES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PREPARADOS LUBRICANTES",
+        "clave_producto": "15121500",
+        "descripcion_producto": "PREPARADOS LUBRICANTES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "LIMPIAPARABRISAS",
+        "clave_producto": "25171500",
+        "descripcion_producto": "LIMPIAPARABRISAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SISTEMAS DE DESCARCHADO Y",
+        "clave_producto": "25171600",
+        "descripcion_producto": "SISTEMAS DE DESCARCHADO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "Y",
+        "clave_producto": "25171700",
+        "descripcion_producto": "SISTEMAS DE FRENADO Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "RUEDAS Y ACABADOS",
+        "clave_producto": "25171900",
+        "descripcion_producto": "RUEDAS Y ACABADOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MANTTO EQUIPO TRANSPORTES",
+        "clave_producto": "25172000",
+        "descripcion_producto": "MANTTO EQUIPO TRANSPORTES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COMPONENTES Y SISTEMAS DE",
+        "clave_producto": "25172100",
+        "descripcion_producto": "COMPONENTES Y SISTEMAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PUERTAS PARA VEHICULOS",
+        "clave_producto": "25172200",
+        "descripcion_producto": "PUERTAS PARA VEHICULOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "VENTANAS Y PARABRISAS PARA",
+        "clave_producto": "25172300",
+        "descripcion_producto": "VENTANAS Y PARABRISAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DEPOSITOS Y SISTEMAS DE",
+        "clave_producto": "25172400",
+        "descripcion_producto": "DEPOSITOS Y SISTEMAS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "NEUMATICOS Y CAMARAS DE",
+        "clave_producto": "25172500",
+        "descripcion_producto": "NEUMATICOS Y CAMARAS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SISTEMAS DE CONTROL",
+        "clave_producto": "25172700",
+        "descripcion_producto": "SISTEMAS DE CONTROL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SISTEMAS Y COMPONENTES",
+        "clave_producto": "25172800",
+        "descripcion_producto": "SISTEMAS Y COMPONENTES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ILUMINACION EXTERIOR PARA",
+        "clave_producto": "25172900",
+        "descripcion_producto": "ILUMINACION EXTERIOR PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ILUMINACION INTERIOR PARA",
+        "clave_producto": "25173000",
+        "descripcion_producto": "ILUMINACION INTERIOR PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CONTROLES DE EMISION Y DE",
+        "clave_producto": "25173700",
+        "descripcion_producto": "CONTROLES DE EMISION Y DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COMPONENTES ELECTRICOS",
+        "clave_producto": "25173900",
+        "descripcion_producto": "COMPONENTES ELECTRICOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SISTEMAS DEL INTERIOR DE",
+        "clave_producto": "25174400",
+        "descripcion_producto": "SISTEMAS DEL INTERIOR DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SISTEMAS DE ASIENTOS DEL",
+        "clave_producto": "25174600",
+        "descripcion_producto": "SISTEMAS DE ASIENTOS DEL",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COMPONENTES DE CICLO NO",
+        "clave_producto": "25174700",
+        "descripcion_producto": "COMPONENTES DE CICLO NO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COMPONENTES Y SISTEMAS DE",
+        "clave_producto": "25174800",
+        "descripcion_producto": "COMPONENTES Y SISTEMAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SISTEMAS DE CARGADO ELECTRICO",
+        "clave_producto": "25175000",
+        "descripcion_producto": "SISTEMAS DE CARGADO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CHASIS AUTOMOTRIZ",
+        "clave_producto": "25181600",
+        "descripcion_producto": "CHASIS AUTOMOTRIZ",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "REMOLQUES PARA PRODUCTOS Y",
+        "clave_producto": "25181700",
+        "descripcion_producto": "REMOLQUES PARA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SISTEMAS Y EQUIPO DE APOYO",
+        "clave_producto": "25191500",
+        "descripcion_producto": "SISTEMAS Y EQUIPO DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SISTEMAS Y EQUIPO DE APOYO",
+        "clave_producto": "25191600",
+        "descripcion_producto": "SISTEMAS Y EQUIPO DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MANTTO EQUIPO TRANSPORTES",
+        "clave_producto": "25191700",
+        "descripcion_producto": "MANTTO EQUIPO TRANSPORTES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "EQUIPO DE MEDICION Y PRUEBA DE",
+        "clave_producto": "25191800",
+        "descripcion_producto": "EQUIPO DE MEDICION Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MOTORES ELECTRICOS DE CORRIENTE",
+        "clave_producto": "26101100",
+        "descripcion_producto": "MOTORES ELECTRICOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MOTORES ELECTRICOS DE CORRIENTE",
+        "clave_producto": "26101200",
+        "descripcion_producto": "MOTORES ELECTRICOS DE",
+        "clave_unidad": "H87",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "MOTORES NO ELECTRICOS",
+        "clave_producto": "26101300",
+        "descripcion_producto": "MOTORES NO ELECTRICOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "COMPONENTES DE MOTORES O",
+        "clave_producto": "26101400",
+        "descripcion_producto": "COMPONENTES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MOTORES",
+        "clave_producto": "26101500",
+        "descripcion_producto": "MOTORES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ACCESORIOS Y COMPONENTES DE",
+        "clave_producto": "26101700",
+        "descripcion_producto": "ACCESORIOS Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GENERADORES DE POTENCIA",
+        "clave_producto": "26111600",
+        "descripcion_producto": "GENERADORES DE POTENCIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "MANTTO EQUIPO TRANSPORTES",
+        "clave_producto": "26111711",
+        "descripcion_producto": "MANTTO EQUIPO TRANSPORTES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "EMBRAGUES",
+        "clave_producto": "26111900",
+        "descripcion_producto": "EMBRAGUES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PIEZAS Y ACCESORIOS DE",
+        "clave_producto": "26112000",
+        "descripcion_producto": "PIEZAS Y ACCESORIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CABLE AUTOMOTRIZ",
+        "clave_producto": "26121800",
+        "descripcion_producto": "CABLE AUTOMOTRIZ",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CUBIERTAS AUTOMOTRICES",
+        "clave_producto": "31181800",
+        "descripcion_producto": "CUBIERTAS AUTOMOTRICES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "EQUIPO DE CALEFACCION Y PIEZAS Y",
+        "clave_producto": "40101800",
+        "descripcion_producto": "EQUIPO DE CALEFACCION Y",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "FILTROS",
+        "clave_producto": "40161500",
+        "descripcion_producto": "FILTROS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS CONTABLES",
+        "clave_producto": "84111500",
+        "descripcion_producto": "SERVICIOS CONTABLES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TELEFONIA",
+        "clave_producto": "43191501",
+        "descripcion_producto": "TELEFONOS MOVILES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "AUDIFONOS",
+        "clave_producto": "43191606",
+        "descripcion_producto": "AURICULARES DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DISPOSITIVO DE ALMACENAMIENTO",
+        "clave_producto": "43201800",
+        "descripcion_producto": "DISPOSITIVOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "DE",
+        "clave_producto": "43191600",
+        "descripcion_producto": "PARTES O ACCESORIOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CLAVIJAS  DE  ADAPTADORES  O  KITS",
+        "clave_producto": "43191631",
+        "descripcion_producto": "CLAVIJAS DE ADAPTADORES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TELEFONIA",
+        "clave_producto": "81112100",
+        "descripcion_producto": "TELEFONIA",
+        "clave_unidad": "E20",
+        "descripcion_unidad": "MEGABIT"
+    },
+    {
+        "descripcion": "TELEFONIA",
+        "clave_producto": "83111603",
+        "descripcion_producto": "TELEFONIA",
+        "clave_unidad": "E48",
+        "descripcion_unidad": "UNIDAD"
+    },
+    {
+        "descripcion": "BOTAS",
+        "clave_producto": "53111500",
+        "descripcion_producto": "BOTAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BOTAS PARA HOMBRE",
+        "clave_producto": "53111501",
+        "descripcion_producto": "BOTAS PARA HOMBRE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BOTAS PARA MUJER",
+        "clave_producto": "53111502",
+        "descripcion_producto": "BOTAS PARA MUJER",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BOTAS PARA NINO",
+        "clave_producto": "53111503",
+        "descripcion_producto": "BOTAS PARA NINO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BOTAS PARA NINA",
+        "clave_producto": "53111504",
+        "descripcion_producto": "BOTAS PARA NINA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "BOTAS PARA BEBE",
+        "clave_producto": "53111505",
+        "descripcion_producto": "BOTAS PARA BEBE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ZAPATOS",
+        "clave_producto": "53111600",
+        "descripcion_producto": "ZAPATOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ZAPATOS PARA HOMBRE",
+        "clave_producto": "53111601",
+        "descripcion_producto": "ZAPATOS PARA HOMBRE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ZAPATOS PARA MUJER",
+        "clave_producto": "53111602",
+        "descripcion_producto": "ZAPATOS PARA MUJER",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ZAPATOS PARA NINO",
+        "clave_producto": "53111603",
+        "descripcion_producto": "ZAPATOS PARA NINO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ZAPATOS PARA NINA",
+        "clave_producto": "53111604",
+        "descripcion_producto": "ZAPATOS PARA NINA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "ZAPATOS PARA BEBE",
+        "clave_producto": "53111605",
+        "descripcion_producto": "ZAPATOS PARA BEBE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PANTUFLAS PARA MUJER",
+        "clave_producto": "53111702",
+        "descripcion_producto": "PANTUFLAS PARA MUJER",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PANTUFLAS PARA NINO",
+        "clave_producto": "53111703",
+        "descripcion_producto": "PANTUFLAS PARA NINO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PANTUFLAS PARA NINA",
+        "clave_producto": "53111704",
+        "descripcion_producto": "PANTUFLAS PARA NINA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "PANTUFLAS PARA BEBE",
+        "clave_producto": "53111705",
+        "descripcion_producto": "PANTUFLAS PARA BEBE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SANDALIAS",
+        "clave_producto": "53111800",
+        "descripcion_producto": "SANDALIAS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SANDALIAS PARA MUJER",
+        "clave_producto": "53111802",
+        "descripcion_producto": "SANDALIAS PARA MUJER",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SANDALIAS PARA NINO",
+        "clave_producto": "53111803",
+        "descripcion_producto": "SANDALIAS PARA NINO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SANDALIAS PARA NINA",
+        "clave_producto": "53111804",
+        "descripcion_producto": "SANDALIAS PARA NINA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SANDALIAS PARA BEBE",
+        "clave_producto": "53111805",
+        "descripcion_producto": "SANDALIAS PARA BEBE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CALZADO DEPORTIVO",
+        "clave_producto": "53111900",
+        "descripcion_producto": "CALZADO DEPORTIVO",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CALZADORES",
+        "clave_producto": "53112001",
+        "descripcion_producto": "CALZADORES",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "CHANCLOS",
+        "clave_producto": "53112100",
+        "descripcion_producto": "CHANCLOS",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS DE RECLUTAMIENTO",
+        "clave_producto": "80111700",
+        "descripcion_producto": "",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "SERVICIOS MEDICOS",
+        "clave_producto": "85121600",
+        "descripcion_producto": "SERVICIOS MEDICOS DE",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "TELEFONIA",
+        "clave_producto": "81112100",
+        "descripcion_producto": "TELEFONIA",
+        "clave_unidad": "",
+        "descripcion_unidad": ""
+    },
+    {
+        "descripcion": "GASOLINAS",
+        "clave_producto": "15101514",
+        "descripcion_producto": "GASOLINAS",
+        "clave_unidad": "LT",
+        "descripcion_unidad": "EJEMPLO UNIDAD"
+    },
+    {
+        "descripcion": "CASETAS",
+        "clave_producto": "95111602",
+        "descripcion_producto": "CASETAS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "GASOLINAS",
+        "clave_producto": "15101515",
+        "descripcion_producto": "GASOLINAS",
+        "clave_unidad": "LT",
+        "descripcion_unidad": "EJEMPLO UNIDAD"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "53131600",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "PZ",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "95122300",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "CASETAS",
+        "clave_producto": "95111600",
+        "descripcion_producto": "CASETAS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "1010101",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "TELEFONIA",
+        "clave_producto": "81161700",
+        "descripcion_producto": "TELEFONIA",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "51101811",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "PZ",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "IMSS",
+        "clave_producto": "85101701",
+        "descripcion_producto": "IMSS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "72102103",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "91101500",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "TELEFONIA",
+        "clave_producto": "81161800",
+        "descripcion_producto": "TELEFONIA",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "HOSPEDAJE",
+        "clave_producto": "90111503",
+        "descripcion_producto": "HOSPEDAJE",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "CONSUMOS",
+        "clave_producto": "90101500",
+        "descripcion_producto": "CONSUMOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "91101502",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "CONSUMOS",
+        "clave_producto": "90101503",
+        "descripcion_producto": "CONSUMOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "CASETAS",
+        "clave_producto": "95111603",
+        "descripcion_producto": "CASETAS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "95122305",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "MANTTO EQUIPO TRANSPORTES",
+        "clave_producto": "93161700",
+        "descripcion_producto": "MANTTO EQUIPO TRANSPORTES",
+        "clave_unidad": "US",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "84111506",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "01010101",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "GASOLINAS",
+        "clave_producto": "15101514",
+        "descripcion_producto": "GASOLINAS",
+        "clave_unidad": "LT",
+        "descripcion_unidad": "EJEMPLO UNIDAD"
+    },
+    {
+        "descripcion": "GASOLINAS",
+        "clave_producto": "15101515",
+        "descripcion_producto": "GASOLINAS",
+        "clave_unidad": "LT",
+        "descripcion_unidad": "EJEMPLO UNIDAD"
+    },
+    {
+        "descripcion": "CASETAS",
+        "clave_producto": "95111602",
+        "descripcion_producto": "CASETAS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "MANTTO EQUIPO TRANSPORTES",
+        "clave_producto": "93161700",
+        "descripcion_producto": "MANTTO EQUIPO TRANSPORTES",
+        "clave_unidad": "US",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "53131600",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "PZ",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "95122300",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "CASETAS",
+        "clave_producto": "95111600",
+        "descripcion_producto": "CASETAS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "1010101",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "TELEFONIA",
+        "clave_producto": "81161700",
+        "descripcion_producto": "TELEFONIA",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "51101811",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "PZ",
+        "descripcion_unidad": "PIEZA"
+    },
+    {
+        "descripcion": "IMSS",
+        "clave_producto": "85101701",
+        "descripcion_producto": "IMSS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "72102103",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "91101500",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "TELEFONIA",
+        "clave_producto": "81161800",
+        "descripcion_producto": "TELEFONIA",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "HOSPEDAJE",
+        "clave_producto": "90111503",
+        "descripcion_producto": "HOSPEDAJE",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "CONSUMOS",
+        "clave_producto": "90101500",
+        "descripcion_producto": "CONSUMOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "91101502",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "CONSUMOS",
+        "clave_producto": "90101503",
+        "descripcion_producto": "CONSUMOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "CASETAS",
+        "clave_producto": "95111603",
+        "descripcion_producto": "CASETAS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "95122305",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "84111506",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    },
+    {
+        "descripcion": "DIVERSOS",
+        "clave_producto": "01010101",
+        "descripcion_producto": "DIVERSOS",
+        "clave_unidad": "SV",
+        "descripcion_unidad": "SERVICIO"
+    }
+]
